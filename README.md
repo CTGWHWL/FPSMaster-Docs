@@ -41,7 +41,7 @@ A 如果你使用代理插件，那么请同时更新最新版的插件，否则
 
 Q 我该怎样获取（拥有）捐助者【beta】版权限
 
-A 使用您的浏览器打开https://afdian.net/a/fpsmaster来赞助120R的挡位即可获取
+A 使用您的浏览器打开开发者的爱发电[【点我打开】](https://afdian.net/a/fpsmaster)来赞助120R的挡位即可获取
 
 8.【怎样才能打开fpsmaster客户端的菜单】
 
